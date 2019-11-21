@@ -22,10 +22,10 @@ body.no-scroll{
 
     background: #000000 url("anonymous.jpg") no-repeat center center;
     background-color: #000000;
-    /* background-size: cover; */
-    background-size: 90% 100%;
-    -moz-background-size: 90% 100%;
-    -webkit-background-size: 90% 100%;
-    -o-background-size: 90% 100%;
+    background-size: cover;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
     height: calc(100vh);
 } 
